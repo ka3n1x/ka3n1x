@@ -9,5 +9,4 @@ ka3n1x/ka3n1x is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 creds ;
-login: administrator
-password: 55Acc3ssS3cur1ty@megacorp
+It was a picture of some credentials kristi:Kr1sT!5h@Rp3xPl0r3!
